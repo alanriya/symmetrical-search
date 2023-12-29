@@ -1,0 +1,4 @@
+.compute
+__pycache__
+*.pyc
+data
