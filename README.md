@@ -24,4 +24,4 @@ tf-idf score = tf * idf * norm(d)
 2) `.\.venv\Scripts\activate` and then `pip install -r requirements.txt` in a new environment
 3) `python index_creator.py /data_path` wait for index to generate
 4) `python query.py SEARCH_TERM`
-
+5) indices and pages directory will be created when index_creator.py finish running. These are indexes that will be used to generate the relevant articles
